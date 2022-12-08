@@ -151,7 +151,7 @@ PennyLane is the work of [many contributors](https://github.com/PennyLaneAI/penn
 If you are doing research using PennyLane, please cite [our paper](https://arxiv.org/abs/1811.04968):
 
 > Ville Bergholm et al. *PennyLane: Automatic differentiation of hybrid quantum-classical
-> computations.* 2018. arXiv:1811.04968
+> computations.* 2018. arXiv:1811.04968.
 
 ## License
 
